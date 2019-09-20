@@ -1,9 +1,7 @@
 # Promotions NSI 2019/2021
 
-Les étudiants doivent créer dans ce dossier leur dépot personnel. 
+Pour chaque nouveau cours ou projet vous serez ammenés à créer un nouveau dépot dans votre dépot personnel.
 
-Le nom à attribuer au dépot est celui de l'étudiant.
-
-Pour chaque nouveau cours ou projet, l'étudiant devra créer un nouveau dépot dans son dépot personnel.
+Des documents ou du code pourront vous être distribués via un dépôt spécifique que vous devrez préalablement cloner.
 
 Bon travail.
